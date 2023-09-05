@@ -1,6 +1,6 @@
 # JavaScript
 
-  imc
+ IMC
  http://projetojuliaraujo.github.io/JavaScript/IMC.JS/imc.html
 
  Laço de repetição
@@ -11,3 +11,6 @@
 
  Função
  http://projetojuliaraujo.github.io/JavaScript/função/index
+
+ Cadastro
+ http://projetojuliaraujo.github.io/JavaScript/cadastro/index
