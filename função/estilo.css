@@ -1,0 +1,14 @@
+body{
+    background-color: #F0FFFF;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.fundo{
+    padding: 2%;
+    border-radius: 30px;
+    background-color: #E6E6FA;
+    border: solid 3px;  
+    width: 20%;
+    margin-top: 15%;
+}
