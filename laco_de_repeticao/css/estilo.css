@@ -1,0 +1,29 @@
+body{
+    background-color: #0c0808;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.fundo{
+    background-color: #CD5C5C;
+    border-radius: 10%;
+    border: solid 3px;
+    border-color: white;
+    padding: 100px;
+    margin-top: 200px;
+}
+p, form{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2em;
+    text-align: center;
+}
+.butao{
+    background-color: white;
+    width: 40%;
+    padding: 3%;
+    border-radius: 30px;
+}
+.butao:hover{
+    background-color: #DC143C;
+    transition: 0.3s;
+}
