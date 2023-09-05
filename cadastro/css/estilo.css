@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+.forms{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.botao{
+    padding: 5px 5px 5px 5px;
+}
+.a{
+    background-color: #B0E0E6;
+}
+.butao:hover{
+    background-color: #B0E0E6;
+    transition: 0.3s;
+}
