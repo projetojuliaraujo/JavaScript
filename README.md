@@ -8,3 +8,6 @@
 
  Declaração de Variáveis
  http://projetojuliaraujo.github.io/JavaScript/DeclaraçãoVariáveis/index
+
+ Função
+ http://projetojuliaraujo.github.io/JavaScript/função/index
