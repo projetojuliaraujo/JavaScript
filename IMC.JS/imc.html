@@ -2,25 +2,25 @@
 <html lang="pt-br">
     <head>
         <meta charset="UTF-8">
-        <tittle>IMC</tittle>
-
+        <tittle></tittle>
+        <link rel="stylesheet" href="css/estilo.css">
         <script src="imc2.js"> </script>
     </head>
 
     <body>
-
-        <form name="imcForm" id="imcForm" action="#">
+        <form name="imcForm" class="back" id="imcForm" action="#">
+            <h1>CALCULADORA IMC</h1>
             <p>
-                Altura<br>
+               ALTURA<br>
                 <input type="text" id="altura" name="altura" />
             </p>
 
             <p>
-                Peso <br>
+                PESO<br>
                 <input type="text" id="peso" name="peso" />
             </p>
             <p>
-                <input type="submit" name="Enviar" value="Calcular" onclick="calcula_imc(event)"/>
+                <input type="submit" class="botao" name="Enviar" value="CALCULAR" onclick="calcula_imc(event)"/>
             </p>
             <div id ="resul">
             </div>
