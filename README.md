@@ -18,3 +18,7 @@
  POO
 
   http://projetojuliaraujo.github.io/JavaScript/POO/index
+  
+ POO2
+  
+http://projetojuliaraujo.github.io/JavaScript/POO2/index
