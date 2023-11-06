@@ -22,3 +22,8 @@
  POO2
   
 http://projetojuliaraujo.github.io/JavaScript/POO2/index
+
+TROCA MAGENS
+
+http://projetojuliaraujo.github.io/JavaScript/trocadeimagens/index
+
