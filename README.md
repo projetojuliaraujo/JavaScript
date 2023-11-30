@@ -23,7 +23,7 @@
   
 http://projetojuliaraujo.github.io/JavaScript/POO2/index
 
-TROCA MAGENS
+TROCA IMAGENS
 
 http://projetojuliaraujo.github.io/JavaScript/trocadeimagens/index
 
